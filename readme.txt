@@ -4,4 +4,4 @@ git has a mutable index called stage.
 git track changes of files.
 git remote add origin git@github.com:monitorzt/NewTest.git
 creating a branch is quick and simple.
-conflict test from feature2.
+conflict test from feature3.
